@@ -14,3 +14,4 @@ competitive-programming/
 │   ├── Easy/
 │   ├── Medium/
 │   └── Hard/
+└── OtherPlatforms/
